@@ -1,0 +1,1 @@
+The objective of this project is to create a basic recipe website using the skills I have learned from The Odin Project. I will be demonstrating how to use the basic commands of adding unorganised and organised lists inside a body command. This is my very first project.
